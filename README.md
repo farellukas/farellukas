@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![banner](https://github.com/farellukas/farellukas/blob/main/github-banner.png)
