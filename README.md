@@ -1,5 +1,3 @@
-<img src="https://github.com/farellukas/farellukas/blob/main/github-header-image.png" alt="Hi, I'm Farel. Passionate Software Developer in Canada." />
-
 <!--
 **farellukas/farellukas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
